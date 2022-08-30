@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SymbolKit",
+        "repositoryURL": "https://github.com/apple/swift-docc-symbolkit",
+        "state": {
+          "branch": "main",
+          "revision": "ccad2c3189e2a128e5773c3ce4787bc3e28672eb",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
